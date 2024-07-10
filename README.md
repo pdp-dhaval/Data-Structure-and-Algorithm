@@ -17,6 +17,6 @@ Every computer program, even simple ones like address label printing, uses data 
 
 This repository aims to help developers effectively solve common problems with Java code examples. Understanding these techniques is crucial for leveraging computing power to solve complex problems in today's fast-paced computer world.
 
-Chapter 1. Basic Understanding of Data Structure and Algorithm
+* [Chapter 1. Basic Understanding of Data Structure and Algorithm](https://github.com/pdp-dhaval/Data-Structure-and-Algorithm/tree/master/src/main/resources/Chapter%201)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
