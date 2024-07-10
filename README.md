@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dhaval</h1>
+<a id="readme-top"></a>
+<h1 align="left">Hi 👋, I'm Dhaval</h1>
 
 This repository contains my explanations of data structures and algorithms, which I am sharing here. 
 I hope this guide proves helpful!
+
+## Prerequisites
+* OOP [Object Oriented Programming]
+* Java 
 
 <!-- Table of content -->
 ## Table of Content
